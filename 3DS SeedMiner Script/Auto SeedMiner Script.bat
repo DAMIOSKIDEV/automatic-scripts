@@ -27,7 +27,7 @@ echo -------------------- MINING PHASE --------------------
 echo.
 py -3 seedminer_launcher3.py gpu
 echo.
-echo -------------------- CLEANUP PHASE --------------------
+echo -------------------- SORTING PHASE --------------------
 echo.
 mkdir works\%id0%
 copy movable_part1.sed works\%id0%\movable_part1_%id0%.sed
