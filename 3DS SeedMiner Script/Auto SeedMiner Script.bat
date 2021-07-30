@@ -1,6 +1,6 @@
 @echo off
 echo.
-echo -------------------- CHECKING PHASE --------------------
+echo -------------------- UPDATE PHASE --------------------
 echo.
 py -3 seedminer_launcher3.py update-db
 color 0e
