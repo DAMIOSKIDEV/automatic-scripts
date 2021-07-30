@@ -48,6 +48,6 @@ py -3 -m pip install pycryptodomex
 - [ ] Choose number of CPU Threads
 - [ ] Add Mii Method?
 
-## Credit
+## Credits
 
 Zoogie for his software: [Seedminer](https://github.com/zoogie/seedminer)
