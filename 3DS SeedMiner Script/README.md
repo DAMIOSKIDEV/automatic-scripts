@@ -44,6 +44,7 @@ py -3 -m pip install pycryptodomex
 ## To-do
 - [x] File sorting in "works" folder
 - [x] Asking for ID0
+- [ ] Auto-DL-INSTALL
 - [ ] Choose Between GPU & CPU Mode
 - [ ] Choose number of CPU Threads
 - [ ] Add Mii Method?
