@@ -1,8 +1,10 @@
 @echo off
+color 0c
 echo.
-echo -------------------- UPDATE PHASE --------------------
+echo -------------------- UPDATE/CHEKING PHASE --------------------
 echo.
 py -3 seedminer_launcher3.py update-db
+mkdir works
 color 0e
 cls
 ::: 
@@ -16,7 +18,6 @@ cls
 :::                                                                           By DAMIOSKI
 :::
 for /f "delims=: tokens=*" %%A in ('findstr /b ::: "%~f0"') do @echo(%%A
-mkdir works
 echo.
 echo -------------------- ID0 PHASE --------------------
 echo.
