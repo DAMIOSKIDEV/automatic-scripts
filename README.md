@@ -10,4 +10,4 @@ Just download the script you are interested in and run it as admin
 
 ## Scripts
 
-- 3DS SeedMiner Script
+- [3DS SeedMiner Script](https://github.com/DAMIOSKIDEV/automatic-scripts/tree/main/3DS%20SeedMiner%20Script)
